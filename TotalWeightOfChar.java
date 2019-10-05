@@ -1,6 +1,7 @@
 package Solution7;
 
 import java.util.Scanner;
+//@ Author : Leo Mehul Pratap Singh;
 
 public class TotalWeightOfChar {
     public static void main(String[] args) {
