@@ -1,4 +1,5 @@
 package Solution3;
+// @ Author : - Mehul Pratap Singh
 import java.util.Scanner;
 public class Replace {
         public static void main(String[] args) {
