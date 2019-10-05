@@ -1,5 +1,5 @@
 package Solution11;
-
+// @Author : - Mehul Pratap Singh
 import java.util.Scanner;
 
 public class AllindexOfchar {
